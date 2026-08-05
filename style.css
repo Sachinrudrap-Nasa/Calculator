@@ -1,12 +1,13 @@
 * {
 	box-sizing: border-box;
+	
 }
 #answerdisplay {
-	height: 70px;
-	width: 260px;
+	height: 170px;
+	width: 360px;
 	background-color: black;
 	text-align: left;
-	font-size: 70px;
+	font-size: 170px;
 	text-decoration: none;
 	color: white;
 	position: relative;
@@ -30,8 +31,8 @@
 }
 #calcbox {
 	background-color: rgb(49, 44, 44);
-	width: 270px;
-	height: 270px;
+	width: 370px;
+	height: 370px;
 	margin-left: center;
 	position: relative;
 	top: 84px;
@@ -41,8 +42,8 @@
 	color: white;
 	text-align: center;
 	font-size: 30px;
-	width: 260px;
-	height: 30px;
+	width: 360px;
+	height: 130px;
 	padding-bottom: 0%;
 	position: relative;
 	top: 3px;
@@ -60,6 +61,6 @@
 	background-color: black;
 	position: relative;
 	top: 84px;
-	width: 270px;
-	height: 110px;
+	width: 370px;
+	height: 210px;
 }
